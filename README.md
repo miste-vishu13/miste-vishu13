@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miste-vishu13
+- 👋 Hi, I’m Bishal Banjade
 - 👀 I’m interested in ... designing and developing
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
